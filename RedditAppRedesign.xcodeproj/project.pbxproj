@@ -11,6 +11,7 @@
 		3DF2AA762655D39900A7928C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF2AA752655D39900A7928C /* ContentView.swift */; };
 		3DF2AA782655D39D00A7928C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DF2AA772655D39D00A7928C /* Assets.xcassets */; };
 		3DF2AA7B2655D39D00A7928C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DF2AA7A2655D39D00A7928C /* Preview Assets.xcassets */; };
+		3DF2AA832655E30400A7928C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3DF2AA822655E30400A7928C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3DF2AA772655D39D00A7928C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DF2AA7A2655D39D00A7928C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3DF2AA7C2655D39D00A7928C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DF2AA822655E30400A7928C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		3DF2AA672655D39900A7928C = {
 			isa = PBXGroup;
 			children = (
+				3DF2AA822655E30400A7928C /* README.md */,
 				3DF2AA722655D39900A7928C /* RedditAppRedesign */,
 				3DF2AA712655D39900A7928C /* Products */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3DF2AA832655E30400A7928C /* README.md in Resources */,
 				3DF2AA7B2655D39D00A7928C /* Preview Assets.xcassets in Resources */,
 				3DF2AA782655D39D00A7928C /* Assets.xcassets in Resources */,
 			);
