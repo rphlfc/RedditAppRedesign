@@ -7,7 +7,7 @@ Encontrei esse [post no Instagram](https://www.instagram.com/p/CF1YrVTgRBn/) de 
 </p>
 
 ## Vídeos
-- [Vídeo no YouTube](https://youtu.be/pRV1C15DxPs)
+- [Vídeo no YouTube](https://youtu.be/EqpeVoJ61jk)
 
 ## Requisitos
 - iOS 14
